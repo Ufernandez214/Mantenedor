@@ -1,4 +1,3 @@
-PREFEREMTEMETE PROBAR EN FIREFOX.
 
 Nombre de Base de Datos
 db_mantenedor
