@@ -1,3 +1,5 @@
+IMPORTANTE UNA VEZ DESCAGADO MODIFICAR EL NOMBRE DEL PROYECTO A "Mantenedor".
+Preferentemente usar Firefox
 
 Nombre de Base de Datos
 db_mantenedor
